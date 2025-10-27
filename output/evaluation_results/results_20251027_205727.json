@@ -1,0 +1,18 @@
+[
+  {
+    "model": "gemini",
+    "persona": "Warren Buffett",
+    "company": "bpow",
+    "year": "2023",
+    "error": "litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google/gemini-1.5-pro\n Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers",
+    "timestamp": "2025-10-27T20:57:20.894372"
+  },
+  {
+    "model": "gemini",
+    "persona": "Warren Buffett",
+    "company": "bpow",
+    "year": "2022",
+    "error": "litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google/gemini-1.5-pro\n Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers",
+    "timestamp": "2025-10-27T20:57:27.038419"
+  }
+]
